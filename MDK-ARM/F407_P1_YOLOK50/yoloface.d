@@ -1,0 +1,13 @@
+f407_p1_yolok50\yoloface.o: ..\Core\Src\yoloface.c
+f407_p1_yolok50\yoloface.o: ../Core/Inc/yoloface.h
+f407_p1_yolok50\yoloface.o: D:\Keil\Core\ARM\ARMCC\Bin\..\include\stdio.h
+f407_p1_yolok50\yoloface.o: ../Middlewares/ST/AI/Inc/ai_platform.h
+f407_p1_yolok50\yoloface.o: D:\Keil\Core\ARM\ARMCC\Bin\..\include\stdint.h
+f407_p1_yolok50\yoloface.o: D:\Keil\Core\ARM\ARMCC\Bin\..\include\stddef.h
+f407_p1_yolok50\yoloface.o: D:\Keil\Core\ARM\ARMCC\Bin\..\include\inttypes.h
+f407_p1_yolok50\yoloface.o: D:\Keil\Core\ARM\ARMCC\Bin\..\include\stdbool.h
+f407_p1_yolok50\yoloface.o: ../X-CUBE-AI/App/yoloface50k.h
+f407_p1_yolok50\yoloface.o: ../X-CUBE-AI/App/yoloface50k_config.h
+f407_p1_yolok50\yoloface.o: ../X-CUBE-AI/App/yoloface50k_data.h
+f407_p1_yolok50\yoloface.o: ../X-CUBE-AI/App/yoloface50k_data_params.h
+f407_p1_yolok50\yoloface.o: D:\Keil\Core\ARM\ARMCC\Bin\..\include\string.h
